@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DavidLu18/DavidLu18/main/matrix-banner.gif" width="100%" alt="Matrix Pixel Banner" />
+  <img src="https://raw.githubusercontent.com/DavidLu18/DavidLu18/main/matrix-banner.gif?v=2" width="100%" alt="Matrix Pixel Banner" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=680&lines=%3E+FULL-STACK+SYSTEMS+%2F%2F+NEXT.JS+%26+DJANGO;%3E+DATA+PIPELINES+%2F%2F+ML+%26+RECOMMENDATION;%3E+AI+AGENT+WORKFLOWS+%2F%2F+MCP+%26+LOCAL+LLMS" alt="Pixel Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=680&lines=%3E+FULL-STACK+SYSTEMS+%2F%2F+NEXT.JS+%26+DJANGO;%3E+DATA+PIPELINES+%2F%2F+ML+%26+RECOMMENDATION;%3E+AI+AGENT+WORKFLOWS+%2F%2F+MCP+%26+LOCAL+LLMS" alt="Pixel Terminal Typing" />
   </a>
 </div>
 
