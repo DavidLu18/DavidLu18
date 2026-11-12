@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1d4ed8,100:3b82f6&height=165&section=header&text=David%20Lu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20AI%20Workflows&descAlignY=60&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B4C,65:0D1B4C,100:1d3b9e&height=165&section=header&text=David%20Lu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20Engineer%20%E2%80%A2%20AI%20Workflows&descAlignY=60&descSize=15" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Building+scalable+web+platforms+with+Next.js+%26+Django;Designing+Data+Pipelines+%26+Recommendation+Systems;Architecting+AI+Coding+Agents+with+MCP+%26+Local+LLMs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=93C5FD&center=true&vCenter=true&width=620&lines=Building+scalable+web+platforms+with+Next.js+%26+Django;Designing+Data+Pipelines+%26+Recommendation+Systems;Architecting+AI+Coding+Agents+with+MCP+%26+Local+LLMs" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="https://tomato-ae.edu.vn"><img src="https://img.shields.io/badge/Live_Product-Tomato_Active_English-2563eb?style=flat-square&logo=cloudflare&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=DavidLu18&label=Profile+Views&color=1e3a8a&style=flat-square" />
+    <a href="https://tomato-ae.edu.vn"><img src="https://img.shields.io/badge/Live_Product-Tomato_Active_English-0D1B4C?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=DavidLu18&label=Profile+Views&color=0D1B4C&style=flat-square" />
   </p>
 </div>
 
@@ -55,16 +55,16 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-1e293b?style=flat-square&logo=django&logoColor=44B78B" />
-  <img src="https://img.shields.io/badge/C++-1e293b?style=flat-square&logo=cplusplus&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1e293b?style=flat-square&logo=postgresql&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Cloudflare-1e293b?style=flat-square&logo=cloudflare&logoColor=F38020" />
-  <img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Python-0D1B4C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1B4C?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-0D1B4C?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-0D1B4C?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0D1B4C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1B4C?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-0D1B4C?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0D1B4C?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-0D1B4C?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0D1B4C?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -72,11 +72,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=DavidLu18&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&ring=3b82f6&fire=60a5fa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b" />
+  <img height="165" src="https://streak-stats.demolab.com?user=DavidLu18&theme=transparent&hide_border=true&title_color=93c5fd&text_color=cbd5e1&icon_color=3b82f6&ring=1d3b9e&fire=93c5fd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=93c5fd&sideLabels=94a3b8&dates=64748b" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidLu18&theme=transparent" />
 </div>
 
-<!-- Bỏ dấu chú thích (<!-- và -->) ở 3 dòng dưới sau khi bạn chạy xong GitHub Action ở Bước 2 -->
+<!-- Mở chú thích 3 dòng dưới sau khi đã chạy xong Action snake.yml -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/DavidLu18/DavidLu18/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
+</div> 
