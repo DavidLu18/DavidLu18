@@ -1,0 +1,40 @@
+<svg width="850" height="175" viewBox="0 0 850 175" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E3A8A" stroke-width="0.6" stroke-opacity="0.45" />
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="850" y2="175" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1B4C" />
+      <stop offset="100%" stop-color="#091336" />
+    </linearGradient>
+  </defs>
+
+  <!-- Base & Architectural Grid -->
+  <rect width="850" height="175" rx="8" fill="url(#fade)" />
+  <rect width="850" height="175" rx="8" fill="url(#grid)" />
+  <rect x="0.5" y="0.5" width="849" height="174" rx="7.5" stroke="#1E3A8A" stroke-opacity="0.8" />
+
+  <!-- Top Metadata Bar -->
+  <circle cx="36" cy="34" r="4" fill="#3B82F6" />
+  <text x="48" y="38" fill="#93C5FD" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1.5">
+    PORTFOLIO // HO CHI MINH CITY, VN
+  </text>
+  <text x="814" y="38" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1">
+    GITHUB.COM/DAVIDLU18
+  </text>
+
+  <!-- Main Editorial Headline (Matches Serif Avatar without repeating name) -->
+  <text x="34" y="92" fill="#FFFFFF" font-family="Georgia, &#39;Times New Roman&#39;, Times, serif" font-size="30" font-weight="bold" letter-spacing="0.3">
+    Full-Stack Systems & AI Agent Engineering
+  </text>
+
+  <!-- Subtitle -->
+  <text x="36" y="122" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="14">
+    Building production web platforms, recommendation engines, and spec-driven LLM workflows.
+  </text>
+
+  <!-- Bottom Minimal Tags -->
+  <text x="36" y="152" fill="#60A5FA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" letter-spacing="0.8">
+    NEXT.JS  ·  DJANGO  ·  POSTGRESQL  ·  PYTHON  ·  MCP / LOCAL LLMS
+  </text>
+</svg>
