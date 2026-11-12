@@ -1,4 +1,4 @@
-![David Lu Engineering Header](header.svg?v=2)
+![David Lu Engineering Header](https://raw.githubusercontent.com/DavidLu18/DavidLu18/main/header.svg)
 
 <br />
 
