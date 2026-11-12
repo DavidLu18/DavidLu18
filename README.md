@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./header.svg" width="100%" alt="David Lu Engineering Header" />
-</div>
+![David Lu Engineering Header](header.svg)
 
 <br />
 
@@ -21,16 +19,10 @@ I am a final-year Information Technology student at **HUIT** (Ho Chi Minh City, 
 
 ### Core Stack
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,nextjs,django,cpp,postgres,cloudflare,docker,linux,git&theme=dark" />
-  </a>
-</p>
+[![Core Stack](https://skillicons.dev/icons?i=python,ts,nextjs,django,cpp,postgres,cloudflare,docker,linux,git&theme=dark)](https://skillicons.dev)
 
 ---
 
-### Contribution Telemetry
+### Contribution Activity
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DavidLu18&bg_color=0D1B4C&color=93c5fd&line=3b82f6&point=ffffff&area=true&area_color=1e3a8a&hide_border=true" />
-</div>
+![Contribution Snake](https://raw.githubusercontent.com/DavidLu18/DavidLu18/output/github-contribution-grid-snake-dark.svg)
