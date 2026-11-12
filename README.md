@@ -1,4 +1,4 @@
-![David Lu Engineering Header](header.svg)
+![David Lu Engineering Header](header.svg?v=2)
 
 <br />
 
