@@ -1,12 +1,21 @@
-![David Lu Engineering Header](https://raw.githubusercontent.com/DavidLu18/DavidLu18/main/header.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DavidLu18/DavidLu18/main/matrix-banner.gif" width="100%" alt="Matrix Pixel Banner" />
 
-<br />
+  <br />
 
-I am a final-year Information Technology student at **HUIT** (Ho Chi Minh City, Vietnam) focused on **Full-Stack Web Engineering**, **Data/ML Pipelines**, and **AI-Assisted Developer Workflows**. Currently maintaining **[Tomato Active English](https://tomato-ae.edu.vn)** in production while architecting multi-agent coding setups with **Model Context Protocol (MCP)** and local quantized LLMs.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=680&lines=%3E+FULL-STACK+SYSTEMS+%2F%2F+NEXT.JS+%26+DJANGO;%3E+DATA+PIPELINES+%2F%2F+ML+%26+RECOMMENDATION;%3E+AI+AGENT+WORKFLOWS+%2F%2F+MCP+%26+LOCAL+LLMS" alt="Pixel Terminal Typing" />
+  </a>
+</div>
 
 ---
 
-### Selected Work
+### `01 // ABOUT`
+Final-year Information Technology student at **HUIT** (Ho Chi Minh City, Vietnam) focused on **Full-Stack Web Engineering**, **Data/ML Pipelines**, and **AI-Assisted Developer Workflows**. Currently maintaining **[Tomato Active English](https://tomato-ae.edu.vn)** in production while architecting multi-agent coding setups with **Model Context Protocol (MCP)** and local quantized LLMs.
+
+---
+
+### `02 // SELECTED_WORK`
 
 | Project | Architecture & Engineering Scope | Stack |
 | :--- | :--- | :--- |
@@ -17,12 +26,12 @@ I am a final-year Information Technology student at **HUIT** (Ho Chi Minh City, 
 
 ---
 
-### Core Stack
+### `03 // CORE_STACK`
 
 [![Core Stack](https://skillicons.dev/icons?i=python,ts,nextjs,django,cpp,postgres,cloudflare,docker,linux,git&theme=dark)](https://skillicons.dev)
 
 ---
 
-### Contribution Activity
+### `04 // TELEMETRY`
 
 ![Contribution Snake](https://raw.githubusercontent.com/DavidLu18/DavidLu18/output/github-contribution-grid-snake-dark.svg)
