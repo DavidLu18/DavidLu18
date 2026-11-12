@@ -75,8 +75,6 @@
   <img height="165" src="https://streak-stats.demolab.com?user=DavidLu18&theme=transparent&hide_border=true&title_color=60a5fa&text_color=cbd5e1&icon_color=3b82f6&ring=3b82f6&fire=60a5fa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=64748b" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidLu18&theme=transparent" />
 </div>
-
-<!-- Bỏ dấu chú thích (<!-- và -->) ở 3 dòng dưới sau khi bạn chạy xong GitHub Action ở Bước 2 -->
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/DavidLu18/DavidLu18/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div> -->
